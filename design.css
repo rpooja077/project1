@@ -14,7 +14,7 @@ body, html {
 
 .width-100 {
     width: 100px;
-    float: right; /* Assuming this was your intent */
+    float: right; /* width give 100 for full screen*/
  }
 
 .container {
@@ -50,7 +50,7 @@ body, html {
 } 
 
     
-        /* Basic Navbar Styling */
+        /* Navbar */
         .header-menu {
             width: 100%;
             background: #333;
@@ -230,7 +230,7 @@ h1 {
 
 
 
-/* General Reset */
+/* Reset */
 * {
     padding: 0;
     margin: 0;
@@ -372,7 +372,7 @@ body, html {
 }
 
 /* programe for home page */
-/* Global Styles */
+/* */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -380,7 +380,7 @@ body {
     background-color: #f4f4f4;
 }
 
-/* Navigation Bar Styles */
+/* Nav Bar  */
 nav ul {
     list-style-type: none;
     padding: 0;
@@ -416,7 +416,7 @@ header {
     padding: 20px;
 }
 
-/* Sections Styles */
+/* Sections  */
 section {
     padding: 20px;
     margin: 20px auto;
@@ -450,18 +450,7 @@ section ul li {
     }
 }
 
-
-
-
-
-
-
-
-
-
-2
-
-        /* Styling for the gallery */
+ /*  gallery */
          .gallery {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
@@ -475,7 +464,7 @@ section ul li {
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
         }
 
-        /* Styling for the footer */
+        /*  footer */
          footer {
             text-align: center;
             background-color: #333;
@@ -677,7 +666,7 @@ section ul li {
 
 
 
-   /* for notice board */
+   /*  notice board */
 
    body {
     font-family: Arial, sans-serif;
